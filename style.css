@@ -1,0 +1,35 @@
+body {
+  background-color: beige;
+}
+.fane {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  background-color: #81c5c7;
+
+  border: #10c5c7;
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+}
+.top {
+}
+
+h1 {
+  color: darkkhaki;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2 {
+  color: darkslateblue;
+}
+h3 {
+  color: hotpink;
+}
+
+h2 {
+  font: 100px bold;
+}
+p {
+  font: 5000px;
+}
